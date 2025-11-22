@@ -9,4 +9,4 @@
 ### Herencia
 - La representacion de una herencia en UML es :
 
-<img src="imagenes/herencia.png" alt="Clase UML" width="200"/>
+<img src="imagenes/herencia.png" alt="Clase UML" />
